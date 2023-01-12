@@ -1,6 +1,5 @@
 package Daniel;
 
-import java.sql.SQLOutput;
 
 public class FirstClass {
 
